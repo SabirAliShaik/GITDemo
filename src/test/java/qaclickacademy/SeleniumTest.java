@@ -8,6 +8,8 @@ public class SeleniumTest {
 	@Test
 	public void BrowserAutomation() {
 		System.out.println("Browser started");
+		System.out.println("Browser started2");
+
 	}
 	@Test
 	public void elementsUi() {
