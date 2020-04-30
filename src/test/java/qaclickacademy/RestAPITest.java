@@ -16,4 +16,9 @@ public class RestAPITest {
 		System.out.println("delete twitter");
 		System.out.println("delete twitter2");
 	}
+	@Test
+	public void gitdemo() {
+		System.out.println("git demo1");
+		System.out.println("git demo2");
+	}
 }
